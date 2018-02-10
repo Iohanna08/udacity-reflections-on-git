@@ -6,3 +6,6 @@ you can use the staging area to have one commit at the time by checking with git
 branches can be helpful for different versions of code, for example different languages or experimental features
 diagrams help with the branch structure be letting you see how branches relate to each other
 test test for merging
+with merging of branches we can update the master branch with any other branch
+the commits of the branches are still trace-able (in their merged version)
+automatic merging in Git saves a lot of time and prevents typos and other mistakes
