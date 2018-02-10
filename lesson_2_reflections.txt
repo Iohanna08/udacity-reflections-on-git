@@ -1,0 +1,2 @@
+initializing a repository creates a hidden .git directory for Git
+Git needs to be able to track progress, hence the directory

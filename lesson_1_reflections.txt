@@ -1,0 +1,10 @@
+Using diff was faster than manually
+diff guarantees everything is checked well
+diff can also spot errors you would not have seen otherwise
+viewing history can learn what type of errors you are prone to make
+viewing history can be helpful when writing new code
+manually committing makes a commit more meaningful
+automatically can help you when you tend to forget saving your work
+saving all files in repository makes it easier to clone the entire repository properly
+with git log and git diff you can see the history and the differences between versions
+if you can use git commit to revert to older code versions, you can always go back to a working version
