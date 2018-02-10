@@ -2,3 +2,4 @@ initializing a repository creates a hidden .git directory for Git
 Git needs to be able to track progress, hence the directory
 the staging area can contain parts of your working directory that you want to commit
 this is important because you might not want to commit all at once
+you can use the staging area to have one commit at the time by checking with git diff what the differences are
