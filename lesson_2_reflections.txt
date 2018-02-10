@@ -5,3 +5,4 @@ this is important because you might not want to commit all at once
 you can use the staging area to have one commit at the time by checking with git diff what the differences are
 branches can be helpful for different versions of code, for example different languages or experimental features
 diagrams help with the branch structure be letting you see how branches relate to each other
+test test for merging
