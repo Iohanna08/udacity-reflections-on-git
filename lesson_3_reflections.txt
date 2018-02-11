@@ -1,1 +1,3 @@
 you would want to use a remote repository when you are collaborating with others or when you might be working on different computers
+pull manually allows you to choose the moment of getting new code yourself, this is important because automatically receiving new
+    code might be hindering your workflow
