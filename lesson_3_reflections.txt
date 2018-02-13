@@ -6,3 +6,4 @@ a fork is a clone on GitHub from another repository that allows you to work on c
 a clone can be a fork, but it can also be a local copy of a repository, in a clone you cannot retrace the original repository
 a branch is part of a repository that you can use to work on part of the code without affecting the whole yet, by way of merging
    you can update master or another branch as you progress in your work
+if you have a copy of the last known state of the remote locally, you can easily merge back into it without losing parts of branches
