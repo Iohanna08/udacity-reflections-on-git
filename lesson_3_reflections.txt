@@ -8,3 +8,5 @@ a branch is part of a repository that you can use to work on part of the code wi
    you can update master or another branch as you progress in your work
 if you have a copy of the last known state of the remote locally, you can easily merge back into it without losing parts of branches
 without Git/GitHub I would collaborate using some sort of network drive, but it would be much more difficult to follow the workflow
+you would want to make changes in a separate branch when you are working on something that is still in its experimental phase
+you would want to make changes in the master branch if you aim for accessibility all-around because most people will pull from master
